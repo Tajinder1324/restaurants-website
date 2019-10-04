@@ -8,12 +8,12 @@ html {
 }
 body{
     background-color:#A80023;
-    background-image: url("1.jpg");
+    background-image: url("images/1.jpg");
     background-repeat: no-repeat;
     background-size: 61%;
 }
 .second{
-    background-image: url("44.png");
+    background-image: url("images/44.png");
     background-size: 100%;
     padding-bottom: 11rem;
     background-repeat: no-repeat;
@@ -235,7 +235,6 @@ padding-top: 2.5rem;
     color: white;
     font-family: 'Archivo Black', sans-serif;
     font-size: 3.6rem;
-    padding-top: 5rem;
 }
 .text{
     padding-top: 33rem
